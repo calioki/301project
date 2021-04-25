@@ -1,4 +1,6 @@
 # **Task 4: Tubespam Explainer for [Task 3](https://github.com/calioki/301project/blob/main/Task2_dvd_reviews.ipynb)**
+## By Franco Guerra for CS301-102
+## Professor Monogioudis
 As opposed to part 2, where the data handled was in similar structure to an XML document (review extension), the youtube spam content was given as a csv file. The specific csv file used for part 3 is *Youtube02-KatyPerry.csv*. The process was similar, except *pandas* was used to import the data from the csv. To gut out the actual comments and their respective labels, I used iloc, which is a integer-location based indexing for selection by position. The slice in the first index collects the values, and the integer in the second index is where the values are extracted from.*
 
 Using the vectorizer, the *fit_transform* was used to scale the data and develop those scaling parameters. 
