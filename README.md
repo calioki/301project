@@ -94,3 +94,6 @@ In contrast we have classification prediction by Google's inception model. While
 While we as a society move forward towards a world of using computers to optimize and aid our lives, we must never forget that effective human interaction is still the final gate that must be passed before it's used for decision making. In both text and image domain, LIME and SP-LIME while created by machine learning experts help gain insight into how the maching works so non-expert users can make decisions.
 
 Trust is the most important criteria here that must be handled with utmost sensitivity, and the better we can boost and optimize that, the better we can move even farther into the future.
+
+# **to Task 2**
+[To Task 2 notebook](https://github.com/calioki/301project/blob/main/Task2_dvd_reviews.ipynb)
