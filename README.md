@@ -1,4 +1,6 @@
 # **Introduction to LIME**
+##By Franco Guerra for CS301-102
+##Professor Monogioudis
 Trust is finicky. It can be either the hardest thing to gain, or the easiest. Regardless of how it is given, it is fragile. It's imperative to be able properly assess the quality of trust of something before it can be used on others to weight decisions, both big and small. Machine learning models that are being developed and released out into the world every day, focusing on accuracy, efficiency, speed, etc. 
 
 An output at a superficial glance can seems to satisfy the criteria it was designed to tackle. What is the *reasoning* behind the output, and should you take action if the prediction or the model is nebulous? There are such strides to take the human element out of the immediate picture, however at the end of the line it's humans themselves that will use these classifiers as tools or embedding models in other products. Users the the judge and jury, and if the trust is not there, as convenient as it may be, they will not use it.
