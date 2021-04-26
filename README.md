@@ -95,5 +95,10 @@ While we as a society move forward towards a world of using computers to optimiz
 
 Trust is the most important criteria here that must be handled with utmost sensitivity, and the better we can boost and optimize that, the better we can move even farther into the future.
 
-## **[To Task 2 notebook](https://github.com/calioki/301project/blob/main/Task2_dvd_reviews.ipynb)**
+### **[To Task 2 notebook](https://github.com/calioki/301project/blob/main/Task2_dvd_reviews.ipynb)**
+   * **[To Task 2 explanations](https://github.com/calioki/301project/blob/main/Task2_dvd_reviews_Explanations.png)**
 
+### **[To Task 3 notebook](https://github.com/calioki/301project/blob/main/Task3_Katy_Perry.ipynb)**
+   * **[To Task 3 explanations](https://github.com/calioki/301project/blob/main/Task3_Katy_Perry_Explanations.png)**
+
+### **[To Task 4 (Task 3 summary)](https://github.com/calioki/301project/blob/main/Task4_Task3Summary.md)**
