@@ -7,7 +7,6 @@ An output at a superficial glance can seems to satisfy the criteria it was desig
 Trusting A Prediction | Trusting A Model
 ----------------------|------------------
 Can an indvidual prediction be trusted to act on it. Making a blind decision, as good as intentions are, can be calamitous|Can the model behave reasonably when deployed. There are a variety of testing datasets out there to measure accuracy, but a model being fed real-world data can fall far from the goal the model is used for.
-|
 
 
 The better a model can outline this for the user to see, the more the user takes comfort in using it. Here is where *Local Interpretable Model-agnostic Explanation* (LIME) comes in. It's goal is to identify an *interpretable* model over the *interpretable* representation that is *locally* faithful to the classifier. It shines a light into any black box model.
