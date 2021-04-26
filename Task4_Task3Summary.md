@@ -11,7 +11,7 @@ Once we split the matrices into random train and tests subsets, *random forests*
     * *SPAM*: Binary value of 1
     * *HAM*: Binary value of 0
 
-# **Explaining predictions using lime**
+# **Explaining predictions using LIME**
 To utilize random forests on the raw documents, we needed to vectorize the data given in order to provide an optimal model. However, LIME explainers assume our classifier process raw data. We utilize sklearn's *pipeline* to automate the workflow to concatenate transformers. 
 
 For our prediction probability of the data we are given:
